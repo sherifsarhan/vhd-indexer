@@ -1,0 +1,146 @@
+Sherif Sarhan
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 2
+search for: Sill, Mount
+Sill, Mount, country: United States, altitude: 14153 ft.
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 2
+search for: Silly, Mount
+Record Not Found
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 2
+search for: Everest
+Everest, country: Nepal/Tibet, altitude: 29035 ft.
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: GMU, Mount#United States#31000
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Hooha Peak#Canada#3
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 2
+search for: GMU, Mount
+GMU, Mount, country: United States, altitude: 31000 ft.
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 1, Mount#United States#237
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 2, Mount#Luxembourg#29334
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 3, Mount#Thailand#0
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 4, Mount#Detroit#200
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 5, Mount#Hole in the Ground#-7
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 6, Mount#Guinea-Bissau#10110
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 7, Mount#Uruguay#888
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 8, Mount#Mars#20682
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 9, Mount#Canada#3
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 1
+insert: Snargle 10, Mount#Delaware#14010
+Insertion Successful
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 2
+search for: Snargle 10, Mount
+Snargle 10, Mount, country: Delaware, altitude: 14010 ft.
+
+Type 1 to Insert New Record
+Type 2 to Find Record
+Type 3 to Quit
+
+Select Option: 3
+Program Has Quit
+
+Process finished with exit code 0
